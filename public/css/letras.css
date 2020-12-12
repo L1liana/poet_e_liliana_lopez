@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 't';
+    src: url(T.ttf);
+}
+@font-face{
+    font-family: 'c';
+    src: url(C.ttf);
+}
+@font-face{
+    font-family: 'tc';
+    src: url(TC.ttf);
+}
+@font-face{
+    font-family: 'tp';
+    src: url(p.ttf);
+}

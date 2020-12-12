@@ -1,0 +1,5 @@
+@include('includes.header')
+@include('includes.navbar')
+@include('includes.iside')
+@include('includes.content')
+@include('includes.footer')
